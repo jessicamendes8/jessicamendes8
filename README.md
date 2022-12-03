@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hey%20Everyone!&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hey%20Everyone🖖&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn&fontAlign=70)
 
 ---
 

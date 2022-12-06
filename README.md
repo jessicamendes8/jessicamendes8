@@ -20,10 +20,10 @@
   
 <h2> 📈 My GitHub History!</h2>   
 
-![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessybouchez&show_icons=true&theme=tokyonight)
+![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicamendes8&show_icons=true&theme=tokyonight)
 ##
 
-![Snake animation](https://github.com/jessybouchez/jessybouchez/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jessicamendes8/jessicamendes8/blob/output/github-contribution-grid-snake.svg)
           
           
           
